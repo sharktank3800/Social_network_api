@@ -5,7 +5,7 @@ const db = require("./config/connection")
 
 
 // setting up environment variables
-const PORT = process.env.PORT || 3333
+const PORT = process.env.PORT || 3001;
 
 // create an instance
 const app = express();

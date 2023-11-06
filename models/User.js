@@ -28,14 +28,14 @@ const userSchema = new Schema(
 
     friends: [
       {
-        type: String.Types.ObjectId,
+        type: Schema.Types.ObjectId,
         ref: "User",
       },
     ],
 
     thoughts: [
       {
-        type: String.Types.ObjectId,
+        type: Schema.Types.ObjectId,
         ref: "Thought",
       },
     ],
