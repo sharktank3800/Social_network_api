@@ -3,8 +3,6 @@
 Watch a video demonstration of the API's functionality here [Walkthrough Video](https://drive.google.com/file/d/1ehHgGtvoTI7NK3N7QKEBNpeeo3df0D5N/view)
 . The video showcases how to use the API.
 
-[Walkthrough Video](https://drive.google.com/file/d/1ehHgGtvoTI7NK3N7QKEBNpeeo3df0D5N/view)
-
 
 ## Description
 
